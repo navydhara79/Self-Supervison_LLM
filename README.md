@@ -1,4 +1,4 @@
-# CS594: Deep Representation Learning
+# Self Supervison in LLMs
 
 ## Introduction
 
